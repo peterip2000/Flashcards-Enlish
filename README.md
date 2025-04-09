@@ -1,6 +1,6 @@
 # English Flashcards App
 
-![Flashcards App Demo](screenshot.png)
+![Flashcards App Demo](image/screenshot.png)
 
 ## Overview
 An interactive vocabulary learning tool with a modern GUI that helps users practice English translations of Chinese words through flashcards.
