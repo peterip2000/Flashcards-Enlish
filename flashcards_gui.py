@@ -64,7 +64,7 @@ class FlashcardsApp:
         
         # 載入背景圖片
         try:
-            bg_image = Image.open("night_sky.jpg")
+            bg_image = Image.open("image/night_sky.jpg")
             bg_image = bg_image.resize((800, 600))
             self.bg_photo = ImageTk.PhotoImage(bg_image)
             
